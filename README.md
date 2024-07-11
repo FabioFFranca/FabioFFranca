@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá , me chamo Fabio França
+## Bem vindo ao meu perfil GitHub👋
 
-<!--
 **FabioFFranca/FabioFFranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente trabalho com monitoramento em uma central de emergências ...
+- 🌱 Estou iniciando em programação estudando Cursos da Alura ...
+- 🤔 "Ajuda sempre é bem vinda", se quiser colaborar e ajudar seria muito top, ...
+- 📫 Entre em contato comigo por: fabiovieiradefranca@gmail.com / 47 9 96087135 ...
+- ⚡ 🔍 Curioso sobre mim? 🤔
+🔐 Trabalho na área de segurança, mas estou trilhando um novo caminho na programação. Com 45 anos, estou estudando na Alura e sonhando em me tornar um programador. Tenho uma esposa linda e uma filha casada, das quais me orgulho muito. Agora é a hora de mudar para uma nova profissão! 💪 ...
+
+##Estou aprendendo
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+          ##Contatos
+         <div>
+<a href="https://instagram.com/fabiofrancca" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/Fabio Franca" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div>
+<a href="https://github.com/FabioFFranca">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?FabioFFranca&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?FabioFFranca-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/seu-usuário-aqui/FabioFFranca/blob/output/github-contribution-grid-snake.svg)
+
