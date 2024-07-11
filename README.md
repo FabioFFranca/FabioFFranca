@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 🔐 Trabalho na área de segurança, mas estou trilhando um novo caminho na programação. Com 45 anos, estou estudando na Alura e sonhando em me tornar um programador. Tenho uma esposa linda e uma filha casada, das quais me orgulho muito. Agora é a hora de mudar para uma nova profissão! 💪 ...
 
 ##Estou aprendendo
-
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
@@ -22,8 +22,7 @@ Here are some ideas to get you started:
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-          ##Contatos
-         <div>
+ <div>
 <a href="https://instagram.com/fabiofrancca" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Fabio Franca" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
